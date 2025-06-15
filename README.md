@@ -1,4 +1,4 @@
-<h1 align="center">💰 Rent Calculator (Basic & Intermediate) 🧾</h1>
+<h1 align="center">Rent Calculator (Basic & Intermediate) </h1>
 
 <p align="center">
   <strong>A set of Python scripts to calculate shared monthly rent and expenses, built for both beginners and intermediate users.</strong>
